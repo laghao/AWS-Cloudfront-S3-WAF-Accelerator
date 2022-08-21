@@ -1,0 +1,6 @@
+project_name: cloudfront-protection
+env: dev
+vpc_name: devVPC
+domain_name: oussamabenlagha.de
+aws_region: us-west-1
+restricted_countries: NZ
